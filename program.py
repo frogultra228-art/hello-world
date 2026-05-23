@@ -1,2 +1,2 @@
 print("hello world")
-input("aaa")
+input("Нажмите Enter для выхода...")
